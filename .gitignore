@@ -7,7 +7,6 @@
 
 # Node dependencies
 node_modules
-dist
 
 # Logs
 logs
