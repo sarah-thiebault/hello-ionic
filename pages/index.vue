@@ -1,5 +1,5 @@
 <template>
-    hello
+    hello hello
     <button @click="navigateTo('/')">
           <NuxtImg
             alt="krida-logo"
