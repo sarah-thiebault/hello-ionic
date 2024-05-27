@@ -4,9 +4,6 @@ export default defineNuxtConfig({
     "@nuxtjs/ionic", 
     "@nuxt/image"
   ],
-  image: {
-    dir: 'assets/',
-},
   ssr: false,
   devtools: { enabled: false }
 })
